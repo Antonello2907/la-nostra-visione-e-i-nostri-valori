@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Nostra Visione e i Nostri Valori – Piattaforma Etica</title>
+
+  <style>
+    /* --- Stile di base --- */
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: url("sfondo.png") no-repeat center center fixed;
+      background-size: cover;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+      background-color: rgba(255,255,255,0.8);
+    }
+
+    header img {
+      max-width: 180px;
+      height: auto;
+    }
+
+    h1 {
+      font-size: 2em;
+      margin-top: 10px;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      background-color: rgba(255,255,255,0.85);
+      padding: 30px;
+      border-radius: 10px;
+    }
+
+    h2 {
+      color: #2a5d34;
+      margin-top: 30px;
+    }
+
+    ul {
+      list-style: disc;
+      margin-left: 20px;
+    }
+
+    .btn-area {
+      text-align: center;
+      margin: 40px 0;
+    }
+
+    .btn {
+      display: inline-block;
+      background-color: #2a5d34;
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 25px;
+      border-radius: 25px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #1e4426;
+    }
+
+    footer {
+      text-align: center;
+      background-color: rgba(255,255,255,0.8);
+      padding: 15px;
+      font-size: 0.9em;
+      margin-top: 40px;
+    }
+
+    footer a {
+      color: #2a5d34;
+      text-decoration: none;
+      margin: 0 5px;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- LOGO e intestazione -->
+  <header>
+    <img src="immagine1.jpg" alt="Logo Piattaforma Etica">
+    <h1>La Nostra Visione e i Nostri Valori</h1>
+  </header>
+
+  <!-- Contenuto principale -->
+  <main>
+    <p>
+      La Piattaforma Etica Autonoma nasce con l’obiettivo di offrire a chiunque uno spazio libero,
+      sicuro e meritocratico. La nostra visione è un mondo dove <strong>collaborazione, condivisione e solidarietà</strong> 
+      siano la base per crescere insieme.
+    </p>
+
+    <h2>I nostri valori fondamentali</h2>
+    <ul>
+      <li><strong>Inclusione:</strong> ogni persona è benvenuta, senza discriminazioni.</li>
+      <li><strong>Merito:</strong> il riconoscimento nasce dall’impegno e dalla crescita personale.</li>
+      <li><strong>Etica:</strong> nessuna richiesta di denaro, solo gratitudine e partecipazione volontaria.</li>
+      <li><strong>Crescita:</strong> corsi, materiali e scambi di esperienze sempre gratuiti.</li>
+    </ul>
+
+    <div class="btn-area">
+      <a class="btn" href="https://antonello2907.github.io/corsi-materiali/">👉 Scopri i Nostri Corsi Gratuiti</a>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 Piattaforma Etica |
+    <a href="https://antonello2907.github.io/contatti/">Contatti</a> |
+    <a href="https://antonello2907.github.io/privacy/">Privacy</a> |
+    <a href="https://antonello2907.github.io/cookie-policy/">Cookie</a> |
+    <a href="https://antonello2907.github.io/termini/">Termini</a>
+  </footer>
+
+</body>
+</html>
